@@ -1,0 +1,9 @@
+﻿PASS: DeepSeek model-name repair; other providers preserved; SSE split metadata; action allowlist; empathetic reactions; actual chat -> rig/history wiring; focus menu removed.
+PASS: four pages; settings scroll to API; three genuine-alpha outfits; six facial states per outfit; small/large screen bounds; resident model and contextual prosody WAVs; stop clears mouth.
+ColdFirstSentenceSeconds=4.154
+WarmNextSentenceSeconds=1.261
+WarmHappySentenceSeconds=0.984
+PASS: actual muted two-sentence producer/player pipeline, multiple moods, first mouth movement at 1.240 s; stop cancels queue; no lingering mouth movement.
+PASS: endpoint normalization and validation; JSON/auth wire format; response parsing; 401/429/redirect; empty/malformed responses; cancellation; key redaction; DPAPI encryption; native argument quoting; real MeloTTS generation; PCM energy and silence; mouth closes beyond audio duration.
+AudioDuration=2.95258503401361
+Actual DeepSeek: GET /models HTTP 200; available deepseek-flash/deepseek-v4-pro; old display name absent. Corrected model reply HTTP 200. New C# SSE implementation: 21 chunks, first delta 2.176 seconds, valid happy/happy reaction. No credentials recorded.

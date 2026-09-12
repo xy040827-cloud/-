@@ -1,0 +1,202 @@
+[
+  {
+    "file": "licenses/ESPEAK-NG-COPYING.txt",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "file": "licenses/JSON-LICENSE.txt",
+    "bytes": 1076,
+    "sha256": "46a65cffd1ea955132d95a8dd921640714a8d6b537d2e4e482d31145ae95b603"
+  },
+  {
+    "file": "licenses/KALDI-DECODER-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "licenses/KALDI-NATIVE-FBANK-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "licenses/MELO-LICENSE.txt",
+    "bytes": 1053,
+    "sha256": "88a50e5a02bbc2a5c2f084dc19da751aa97b1690f5fda76cd8005c8634d1ca70"
+  },
+  {
+    "file": "licenses/ONNXRUNTIME-LICENSE.txt",
+    "bytes": 1073,
+    "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+  },
+  {
+    "file": "licenses/ONNXRUNTIME-ThirdPartyNotices.txt",
+    "bytes": 325054,
+    "sha256": "0e07b95f3a8d6230037707c5c4a2b554d12c4cb67369669ac255635528ffcee2"
+  },
+  {
+    "file": "licenses/PIPER-PHONEMIZE-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "13746d509d74e55ea2265fbef204bb7cdbf84a8315b0207e988326cb54387028"
+  },
+  {
+    "file": "licenses/SENTENCEPIECE-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "licenses/SHERPA-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "licenses/sources.json",
+    "bytes": 2378,
+    "sha256": "81ad1d63f0fa1c31276f162bc7f851219fb51b4a68054c8a7263188002ae28cb"
+  },
+  {
+    "file": "licenses/UNI-ALGO-LICENSE.txt",
+    "bytes": 2208,
+    "sha256": "c55648b02873556d6ab2de14938998101fda3a0f293337542af9196435def318"
+  },
+  {
+    "file": "QingyuPet.exe",
+    "bytes": 13206016,
+    "sha256": "69cc73fb8648f3a53fe2e0d2943c7fa9385f254298a1b6a55349e8beecb7a5bb"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3440,
+    "sha256": "7889a6945e45c532b509b203c70ed1a91a15afcd7dd5b8b395d3bc6e797f5786"
+  },
+  {
+    "file": "TEST-RESULTS.txt",
+    "bytes": 1202,
+    "sha256": "b6556843712392acf767074cdcbd61aad0f89e72ebe4884c2ca0ad3e7eb3b563"
+  },
+  {
+    "file": "THIRD-PARTY-NOTICES.md",
+    "bytes": 2865,
+    "sha256": "1e1e0f261b1bf799d7adbf569fa49e8940da4fa134df6913f9e488bb473d93dc"
+  },
+  {
+    "file": "upstream-source/espeak-ng-ed530aa-source.zip",
+    "bytes": 18011501,
+    "sha256": "e4e262cbe34f7fe21f91f1ba3397f2728e1f30eafbae7853f2b753a9ed13f0dd"
+  },
+  {
+    "file": "upstream-source/piper-phonemize-f3ff95a-source.zip",
+    "bytes": 9805962,
+    "sha256": "d9cca4e2bdc7d6dd8dffb96a4668283dbd3f77a9c194a3e530c1e8eba9406a5d"
+  },
+  {
+    "file": "upstream-source/sherpa-onnx-1.13.7-source.zip",
+    "bytes": 15318096,
+    "sha256": "dc682a59bc4e29bc279ec5e8cd07a1f87f6fd73b198206996eb9f51ff87221ab"
+  },
+  {
+    "file": "voice/DOWNLOADS.json",
+    "bytes": 541,
+    "sha256": "08e85b64eadb29a6beaa94266b66b1c83d0ee90e206aff96ab1dbde955821417"
+  },
+  {
+    "file": "voice/engine/onnxruntime.dll",
+    "bytes": 17378304,
+    "sha256": "b9f6713c3602a4742680a7e6a77e3f9ac4a676ad9447bce609e53efcda795d7e"
+  },
+  {
+    "file": "voice/engine/onnxruntime_providers_shared.dll",
+    "bytes": 104960,
+    "sha256": "1f8b8ebfb07aad2c692669ba77c45b5a24e72b9c708bc3f2be4103ff29370c60"
+  },
+  {
+    "file": "voice/engine/sherpa-onnx-c-api.dll",
+    "bytes": 4593664,
+    "sha256": "f80a93e69fda12aaab23581f71097010c70fb8b8c042fec7c0efead04be5c441"
+  },
+  {
+    "file": "voice/melo/date.fst",
+    "bytes": 59154,
+    "sha256": "eb8aa079ae3cb81d8f4404992f39d61a0cb990947512b5b8d1e54d1f6980e718"
+  },
+  {
+    "file": "voice/melo/lexicon.txt",
+    "bytes": 6837671,
+    "sha256": "7236884b02435ac5d10cf69b4be40a61b45aa676b5300f0e412f185748fee528"
+  },
+  {
+    "file": "voice/melo/LICENSE",
+    "bytes": 1053,
+    "sha256": "88a50e5a02bbc2a5c2f084dc19da751aa97b1690f5fda76cd8005c8634d1ca70"
+  },
+  {
+    "file": "voice/melo/model.onnx",
+    "bytes": 170429550,
+    "sha256": "bf30582eb1b012250a35b1a4a80e7dfbcf8485e7bb9de0d95efbbeef0e4ad86d"
+  },
+  {
+    "file": "voice/melo/number.fst",
+    "bytes": 64482,
+    "sha256": "743f402181fcfebf76cc2f0546b71fa26476e626fbe4e460fb7b4c3a7a8bd5bd"
+  },
+  {
+    "file": "voice/melo/phone.fst",
+    "bytes": 88630,
+    "sha256": "1ac2b6fa56b1442320c4de7db08353bab8963a2b57f365eebcdd3a2d3562f8d7"
+  },
+  {
+    "file": "voice/melo/tokens.txt",
+    "bytes": 655,
+    "sha256": "d18664a7e12bd7ea1022ddaf951e534e136815016c5a809d6b64156bffb4369d"
+  },
+  {
+    "file": "使用说明.txt",
+    "bytes": 5508,
+    "sha256": "53a6847f104a314c299edd4805a368c5fe4b3d4b46e5717f4dd99322fb358d78"
+  },
+  {
+    "file": "预览/cyber-normal.png",
+    "bytes": 324312,
+    "sha256": "d23868afbfb33a4389cf603c65de58a9770a31aaac94ff26bb4c1e8451614ae9"
+  },
+  {
+    "file": "预览/original-happy.png",
+    "bytes": 336362,
+    "sha256": "9e8b964219ea199b09be8312ce32c0c7d21f01a18aa8cf45b6e76938d8a5aa8d"
+  },
+  {
+    "file": "预览/page-0.png",
+    "bytes": 101794,
+    "sha256": "6eb5e67f3da6d4c28cfdb3a945ed61ad733f9adf3405bfed7661be35e9667689"
+  },
+  {
+    "file": "预览/page-1.png",
+    "bytes": 80308,
+    "sha256": "569f5a346acd80b5c7dc50bae03b08807c18376ad4e89bd3cb104b9196aed0e4"
+  },
+  {
+    "file": "预览/page-3.png",
+    "bytes": 164990,
+    "sha256": "58f67db053c35c4cf9dd8af9267ba12d0f46a38ea70872db466dc80faf24c776"
+  },
+  {
+    "file": "预览/page-api.png",
+    "bytes": 99400,
+    "sha256": "99aaf8a4893b15803e67c5963c241289b8448ec22a625c957affbd6e100f4d4f"
+  },
+  {
+    "file": "预览/qipao-happy.png",
+    "bytes": 294991,
+    "sha256": "f019e35a04d6f2f06c684b672275910506612f59f46106994e5331035df5b42b"
+  },
+  {
+    "file": "预览/voice-gentle.wav",
+    "bytes": 181844,
+    "sha256": "28e343e7e36561e0ba7459384923263826abaa58e8bbff17c273514795ddd0eb"
+  },
+  {
+    "file": "预览/voice-happy.wav",
+    "bytes": 179120,
+    "sha256": "a8948c82af80d2b65b2678a90d35140d2b29190dfc391b4b08d3797d5e1e23de"
+  }
+]

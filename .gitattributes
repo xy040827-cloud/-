@@ -1,0 +1,3 @@
+QingyuPet-v3/voice/melo/model.onnx filter=lfs diff=lfs merge=lfs -text
+青语桌宠-3.0-Windows便携版.zip filter=lfs diff=lfs merge=lfs -text
+青语桌宠-3.0-源码.zip filter=lfs diff=lfs merge=lfs -text

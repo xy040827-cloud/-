@@ -1,0 +1,14 @@
+[
+  {
+    "file": "sherpa.tar.bz2",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/v1.13.7/sherpa-onnx-v1.13.7-win-x64-shared-MT-Release.tar.bz2",
+    "sha256": "0b8f4a8cdde53cee671b0647947c66e10efec1b63ed2606c8eeac650071c9c60",
+    "bytes": 24500658
+  },
+  {
+    "file": "melo.tar.bz2",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-melo-tts-zh_en.tar.bz2",
+    "sha256": "e58351ed7149f290a54534538badd4077cdbe6fddc964b24d0bee870415d1514",
+    "bytes": 167006755
+  }
+]
